@@ -1042,7 +1042,7 @@ footer {
    JOB DETAIL PAGE
    ============================================================ */
 .job-detail-hero {
-  padding-top: calc(var(--nav-height) + 16px);
+  padding-top: calc(var(--nav-height) + 4px);
   padding-bottom: 16px;
   position: sticky;
   top: 0;
@@ -1061,7 +1061,7 @@ footer {
 
 .job-main-info {
   display: block;
-  margin-top: 15px;
+  margin-top: 0px;
 }
 
 .job-back {
@@ -1094,13 +1094,13 @@ footer {
 }
 
 .job-position {
-  font-size: clamp(1.3rem, 2.5vw, 1.7rem);
+  font-size: clamp(1rem, 1.6vw, 1.25rem);
   font-weight: 700;
   color: var(--color-heading);
   margin-bottom: 4px;
 }
 .job-company {
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: var(--color-primary);
   font-weight: 600;
   margin-bottom: 4px;
@@ -1119,7 +1119,7 @@ footer {
 .job-body { max-width: 760px; }
 
 .job-desc {
-  font-size: 1.05rem;
+  font-size: 0.95rem;
   color: var(--color-text-muted);
   line-height: 1.6;
   margin-bottom: 8px;

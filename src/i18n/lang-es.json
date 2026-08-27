@@ -4,7 +4,7 @@
         "name": "Juan Carlos Muñoz Castañeda",
         "degree": "Ingeniero Catastral y Geodesta",
         "postDegree": "Especialista en Ingeniería de Software",
-        "tagline": "Más de 15 años transformando datos geográficos en decisiones — desde el trabajo de campo hasta plataformas de mapeo local y web."
+        "tagline": "Más de 20 años transformando datos geográficos en decisiones — desde el trabajo de campo hasta plataformas de mapeo local y web."
     },
     "navtop": {
         "hm": "Inicio",
@@ -22,7 +22,7 @@
     "about": {
         "label": "Acerca",
         "title": "Experiencia y Habilidades",
-        "subtitle": "Más de 14 años transformando datos geográficos en decisiones, desde el trabajo de campo hasta plataformas de mapeo web.",
+        "subtitle": "Más de 20 años transformando datos geográficos en decisiones, desde el trabajo de campo hasta plataformas de mapeo web.",
         "bio1": "Ingeniero Catastral y Geodesta con especialización en Ingeniería de Software. Experiencia en Gestion Predial, diseño de bases de datos SIG, análisis espacial y producción cartográfica para proyectos de infraestructura vial, ferrea, redes de servicios publicos y proyectos ambientales.",
         "bio2": "Apasionado por combinar la tecnología geoespacial con stacks web modernos para entregar mapas interactivos, APIs geoespaciales y sistemas de soporte local para la toma de decisiones.",
         "compHeading": "Competencias principales",
@@ -115,7 +115,7 @@
     "stats": [
         {
             "label": "Años de Experiencia",
-            "target": 14,
+            "target": 20,
             "icon": "bi-calendar3"
         },
         {

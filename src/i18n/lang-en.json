@@ -4,7 +4,7 @@
         "name": "Juan Carlos Muñoz Castañeda",
         "degree": "Cadastral and Geodesic Engineer",
         "postDegree": "Software Engineering Specialist",
-        "tagline": "Over 15 years transforming geographic data into decisions — from fieldwork to local and web mapping platforms."
+        "tagline": "Over 20 years transforming geographic data into decisions — from fieldwork to local and web mapping platforms."
     },
     "navtop": {
         "hm": "Home",
@@ -22,7 +22,7 @@
     "about": {
         "label": "About",
         "title": "Expertise & Skills",
-        "subtitle": "Over 14 years transforming geographic data into decisions — from fieldwork to web mapping platforms.",
+        "subtitle": "Over 20 years transforming geographic data into decisions — from fieldwork to web mapping platforms.",
         "bio1": "Cadastral and Geodesic Engineer with a Software Engineering specialization. Experienced in land acquisition, GIS database design, spatial analysis, and cartographic production for large-scale infrastructure and rail corridor projects across Colombia.",
         "bio2": "Passionate about combining geospatial technology with modern web stacks to deliver interactive maps, geospatial APIs, and decision-support systems.",
         "compHeading": "Core competencies",
@@ -123,7 +123,7 @@
     "stats": [
         {
             "label": "Years of Experience",
-            "target": 14,
+            "target": 20,
             "icon": "bi-calendar3"
         },
         {
